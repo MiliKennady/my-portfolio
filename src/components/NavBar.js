@@ -15,20 +15,20 @@ function NavBar() {
 
           <NavLink to="/post"
           className="inflex-flex items-center py-3 px-3 my-6 rounded text-red-200 hover:text-green-800 "
-          activeClassName = "text-red-100 bg-red-700">
+          activeclassname = "text-red-100 bg-red-700">
             Blog Post
             
           </NavLink>
 
           <NavLink to="/project"
           className="inflex-flex items-center py-3 px-3 my-6 rounded text-red-200 hover:text-green-800 "
-          activeClassName = "text-red-100 bg-red-700">
+          activeclassname = "text-red-100 bg-red-700">
             Project
           </NavLink>
 
           <NavLink to="/about"
           className="inflex-flex items-center py-3 px-3 my-6 rounded text-red-200 hover:text-green-800"
-            activeClassName = "text-red-100 bg-red-700" >
+          activeclassname = "text-red-100 bg-red-700" >
             About Me
           </NavLink>
 
